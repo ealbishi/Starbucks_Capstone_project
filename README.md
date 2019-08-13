@@ -39,9 +39,9 @@ analyzing data is a method to follow the customer's behavior and guarantee to st
 <a id='File Descriptions'></a>
 # File Descriptions:
 This project encompasses three Data Sets:
-portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.)
-profile.json - demographic data for each customer
-transcript.json - records for transactions, offers received, offers viewed, and offers completed.
+- portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.)
+- profile.json - demographic data for each customer
+- transcript.json - records for transactions, offers received, offers viewed, and offers completed.
 
 
 <a id='Results'></a>
